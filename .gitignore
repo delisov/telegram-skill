@@ -1,0 +1,6 @@
+node_modules/
+.telegram-skill/
+session.txt
+config.json
+code.txt
+password.txt

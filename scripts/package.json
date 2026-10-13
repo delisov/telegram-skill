@@ -1,0 +1,10 @@
+{
+  "name": "telegram-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Command-line Telegram client used by the telegram Claude Code skill (mtcute)",
+  "license": "MIT",
+  "bin": { "tg": "./tg.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "@mtcute/node": "^0.31.0" }
+}
